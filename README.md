@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ESTUD-IA — Sistema de Información Web
 
 Sistema de gestión para ESTUD-IA (Academy, Labs y Enterprise): control de
