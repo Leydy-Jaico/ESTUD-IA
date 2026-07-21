@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESTUD-IA — Sistema de Información Web
 
 Sistema de gestión para ESTUD-IA (Academy, Labs y Enterprise): control de
@@ -199,3 +200,6 @@ ajustes antes de que el backend pueda conectarse:
 5. **Puerto 4000 ocupado por otro proceso**. Si ya tienes otro servicio en
    `localhost:4000`, cambia `PORT` en `backend/.env` y `VITE_API_URL` en
    `frontend/.env` al mismo puerto nuevo (por ejemplo `4001`).
+=======
+# ESTUD-IA
+>>>>>>> a01c6044322e149065c62a988ef0a7856ef08ab5
